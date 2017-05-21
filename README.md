@@ -24,4 +24,4 @@ After cloning this repository and satisfying the aforementioned requirements you
 Alternatively you can run it with your python interpreter with `python main.py`
 
 ## Compatibility
-This application has been tested under Linux Mint, Elementary OS and Ubuntu, however, certain differences in appearance can be expected across different linux distributions.
+This application has been tested under Linux Mint (18.1), Elementary OS (Loki) and Ubuntu (16.04), however, certain differences in appearance can be expected across different linux distributions.
