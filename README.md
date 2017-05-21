@@ -1,7 +1,9 @@
 # Chaos-Productivity-Tool
 
 ## Description
-Chaos is a tiny but powerful tool developed under linux to help you be more productive. It implements a task list, timer, alarms, stopwatch with lap times and a countdown to date widget with a beautiful and clean interface. When you quit the application it will save all your non-volatile data such as tasks, alarms and countdown date (if one was set) so that you never lose your important data. 
+Chaos is a tiny but powerful tool developed under linux to help you be more productive. It implements a task list, timer, alarms, stopwatch with lap times and a countdown to date widget with a beautiful and clean interface. When you quit the application it will save all your non-volatile data such as tasks, alarms and countdown date (if one was set) so that you never lose your important data. For a full preview of the app have a look at the screenshots in the corresponding folder.
+
+![Timer Tab](/screenshots/timer.png)
 
 ## Requirements
 Chaos is written using python and PyQt4 and requires the following packages to be pre-instaled:
