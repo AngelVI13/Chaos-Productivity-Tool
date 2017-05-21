@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python Chaos.py
+python main.py
