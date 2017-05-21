@@ -17,7 +17,7 @@ After cloning this repository and satisfying the aforementioned requirements you
 
 `./Chaos.sh` or in some linux distributions `sudo ./Chaos.sh` .
 
-Alternatively you can run it with your python interpreter with `python Chaos.py`
+Alternatively you can run it with your python interpreter with `python main.py`
 
 ## Compatibility
 This application has been tested under Linux Mint, Elementary OS and Ubuntu, however, certain differences in appearance can be expected across different linux distributions.
