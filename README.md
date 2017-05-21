@@ -5,6 +5,8 @@ Chaos is a tiny but powerful tool developed under linux to help you be more prod
 
 ![Timer Tab](/screenshots/timer.png)
 
+You can also check it out on [YouTube](https://youtu.be/GZdWcIfJl9U) 
+
 ## Requirements
 Chaos is written using python and PyQt4 and requires the following packages to be pre-instaled:
 - python-pyqt4 (used to develop the user interface)
