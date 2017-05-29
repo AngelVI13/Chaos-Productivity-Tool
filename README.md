@@ -25,3 +25,10 @@ Alternatively you can run it with your python interpreter with `python main.py`
 
 ## Compatibility
 This application has been tested under Linux Mint (18.1), Elementary OS (Loki) and Ubuntu (16.04), however, certain differences in appearance can be expected across different linux distributions.
+
+## Update log
+# 29th of May 2017
+Following a user request, the following functionality was added to the app:
+- Task deadlines. The user can now add a deadline to each task and will receive a notification when that task is due
+- Task priority. The user can now specify a priority level for each task and thus change the colour of the task. The priority levels have been adopted from Steven Covey's book "The 7 Habits of Highly Effective People" and are as follows: Important and Urgent (red background), Important but not Urgent (orange background), Not Important but Urgent (green background), Not Important and not Urgent (blue background). More information on this book and Covey's priority system can be found [here](http://www.planetofsuccess.com/blog/2015/stephen-coveys-time-management-matrix-explained/).
+- Important! - Tasks which are past their deadlines will not be loaded at startup. (I am open to elegant solutions for this problem)
