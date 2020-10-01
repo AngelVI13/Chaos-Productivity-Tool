@@ -1,5 +1,6 @@
 # Chaos-Productivity-Tool
-
+# About Python
+Python is an interpreted, high-level and general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. 
 ## Description
 Chaos is a tiny but powerful tool developed under linux to help you be more productive. It implements a task list, timer, alarms, stopwatch with lap times and a countdown to date widget with a beautiful and clean interface. When you quit the application it will save all your non-volatile data such as tasks, alarms and countdown date (if one was set) so that you never lose your important data. For a full preview of the app have a look at the screenshots in the corresponding folder.
 
